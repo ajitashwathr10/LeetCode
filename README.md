@@ -7,6 +7,7 @@ The repository is organized by problem number or topic. Each problem's solution 
 ## **Languages:**
 * C++
 * Python
+* Bash (Shell)
 
 ## **Contributing:**
 Feel free to contribute by:
